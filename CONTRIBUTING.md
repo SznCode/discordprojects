@@ -1,4 +1,3 @@
-Certainly! Creating a standard set of contribution guidelines is a great practice to help streamline the collaboration process in your GitHub repository. Below is a template for contribution guidelines. You can customize it according to your specific needs.
 
 ### Contribution Guidelines
 
